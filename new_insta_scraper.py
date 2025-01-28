@@ -191,8 +191,6 @@ generate_csv(folder_path, csv_filename)
 #     filter_and_copy_files(input_directory, output_directory)
 
 
-# In[ ]:
-
 
 
 
